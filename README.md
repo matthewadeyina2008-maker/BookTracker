@@ -114,4 +114,4 @@ Now I'll walk through the **full SDLC** (using classic Waterfall model, common f
 3. Public / Private (your choice)
 4. Create repo
 5. Locally: `git init`, `git add book_tracker.py`, `git commit -m "Initial commit - Book Reading Tracker completed"`, `git remote add origin https://github.com/yourusername/BookReadingTracker.git`, `git push -u origin main`
-6.
+  
